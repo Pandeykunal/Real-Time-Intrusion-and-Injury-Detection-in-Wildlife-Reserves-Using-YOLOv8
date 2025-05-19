@@ -22,7 +22,7 @@ This project aims to **detect human intrusions** and **identify injured animals*
 
 You can download the dataset used for training/inference from the link below:
 
-👉 [Dataset Download](https://github.com/jayantbansal05/Realtime-Wildlife-Monitoring-and-Intrusion-Detection-using-YOLO#dataset-links)
+👉 [Dataset Download](https://drive.google.com/drive/folders/14nhJNLTu7XgAaCURKMnEXqHAWsEaSjv2?usp=drive_link)
 
 **Format**: YOLO format (images + labels)  
 **Classes**:
